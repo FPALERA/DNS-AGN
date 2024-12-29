@@ -2,7 +2,7 @@
 ```
 * DNS-AGN SLOWDNS SCRIPT
 ```
-![logo](https://raw.githubusercontent.com/khaledagn/DNS-AGN/main/AGN-DNS.png)
+![logo](https://raw.githubusercontent.com/FPALERA/DNS-AGN/main/AGN-DNS.png)
 
 ```
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
@@ -23,21 +23,19 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 
 # Installation
 ```
-rm -rf install; apt update; wget https://github.com/khaledagn/SlowDNS/raw/main/install; chmod 777 install; ./install --start
+rm -rf install; apt update; wget https://github.com/FPALERA/SlowDNS/raw/main/install; chmod 777 install; ./install --start
 
 ```
 
 
 ## :octocat: by KHALED AGN
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/khaledagn</li>
- <li>FACEBOOK: https://www.facebook.com/itskhaledagn</li>
- <li>INSTAGRAM: https://www.instagram.com/khaledagn</li>
- <li>TWITTER: https://www.twitter.com/khaled_agn</li>
+ <li>TELEGRAM : https://t.me/FPALERA</li>
+ <li>WHATSAPP: https://wa.me/22658179319</li>
  
  </ul>
  
 
 ## :octocat: Credits
 
-1. [@LaelsonCG )
+1. [@FPALERA )
